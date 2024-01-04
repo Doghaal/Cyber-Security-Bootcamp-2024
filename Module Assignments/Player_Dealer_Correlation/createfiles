@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd /home/Lucky_Ducky_Investigations/Roulette_Loss_Investigation/Player_Analysis/
+touch Notes_Player_Analysis.txt
+
+cd /home/Lucky_Ducky_Investigations/Roulette_Loss_Investigation/Dealer_Analysis/
+touch Notes_Dealer_Analysis.txt
+
+cd /home/Lucky_Ducky_Investigations/Roulette_Loss_Investigation/Player_Dealer_Correlation/
+touch Notes_Player_Dealer_Correlation.txt
